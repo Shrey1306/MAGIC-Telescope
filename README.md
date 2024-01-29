@@ -9,11 +9,11 @@ The dataset used in this project is sourced from Bock, R. (2007), titled "MAGIC 
 
 # Models and Analysis
 Train, Validation, Test datasets: The dataset is split into training, validation, and testing sets to ensure a robust evaluation of the machine learning models.
-# kNN (k-Nearest Neighbors) : Implements the kNN algorithm to classify data points based on their similarity.
-# Naive Bayes: Utilizes the Naive Bayes classifier for probabilistic predictions.
-# Logistic Regression: Applies logistic regression for binary classification tasks.
-# SVM (Support Vector Machine): Employs SVM for identifying decision boundaries in complex datasets.
-# Neural Networks: Leverages neural networks to model complex patterns and relationships in the data.
+<u> kNN (k-Nearest Neighbors)</u> : Implements the kNN algorithm to classify data points based on their similarity.
+<u> Naive Bayes </u>: Utilizes the Naive Bayes classifier for probabilistic predictions.
+<u> Logistic Regression </u>: Applies logistic regression for binary classification tasks.
+<u> SVM (Support Vector Machine) </u>: Employs SVM for identifying decision boundaries in complex datasets.
+<u> Neural Networks </u>: Leverages neural networks to model complex patterns and relationships in the data.
 
 # How to Use
 To replicate the analysis and results, follow these steps:
